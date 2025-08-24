@@ -9,3 +9,9 @@
     }
   ]
 }
+
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "https://warp.llimonix.pw/$1" }
+  ]
+}
